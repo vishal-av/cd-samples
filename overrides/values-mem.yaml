@@ -1,0 +1,6 @@
+# overrides/values-mem.yaml
+
+alerts:
+  - memory_warning
+memory:
+  limit: 512Mi
