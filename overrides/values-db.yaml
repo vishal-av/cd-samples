@@ -1,0 +1,7 @@
+# overrides/values-db.yaml
+
+alerts:
+  - db_warning
+db:
+  enabled: true
+  host: db.example.com
